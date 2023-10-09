@@ -8,5 +8,5 @@
 - Go router
 - Theme: Dark, light
 - Basic principles of Clean Architecture
-- Running on Android and iOS ✅
+- Running on Android and iOS and responsive mode with notch ✅
 
