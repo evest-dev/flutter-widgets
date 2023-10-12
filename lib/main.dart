@@ -18,7 +18,6 @@ class MyApp extends ConsumerWidget {
     final AppTheme apptheme = ref.watch(themeNotifierProvider);
 
     return MaterialApp.router(
-      darkTheme: ThemeData.dark(),
       title: 'Flutter Widgets',
       routerConfig: appRouter,
       debugShowCheckedModeBanner: false,
